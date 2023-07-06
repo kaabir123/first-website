@@ -1,0 +1,17 @@
+h1{
+    background-color: aqua;
+    color: black;
+    width: 600px;
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+}
+p{
+    background-color: rgb(169, 245, 6);
+    color: brown;
+    padding: 30px;
+    text-align: justify;
+    width: 800px;
+    margin: auto;
+    margin-top: 20px;
+}
